@@ -56,8 +56,8 @@ const Page = () => {
         <div>
           <Image 
             src='/Logo.png'
-            width={342}
-            height={162.08}
+            width={150}
+            height={150}
             alt='Logo'
           />
         </div>
